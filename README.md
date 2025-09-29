@@ -1,6 +1,11 @@
 # ci-pipeline-playbook
 
-CI pipeline demo with pytest + HTML report.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Pytest](https://img.shields.io/badge/pytest-tested-brightgreen)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+
+--> CI pipeline demo with pytest + HTML report.
 
 ### Features
 - Runs pytest with HTML report
